@@ -3,6 +3,7 @@
 * Machine learning Model - Xgboost
 * Feature encoding techniques used - Target Encoding and One-Hot encoding
 * Hyperparamter tuning framework - Hyperparameter Hunter
+* Current Experiment code - Beer_hackathon_mit_hyperparameter_tuning_framework.ipynb
 
 ### Understanding Hyperparameter Hunter results summary:
 

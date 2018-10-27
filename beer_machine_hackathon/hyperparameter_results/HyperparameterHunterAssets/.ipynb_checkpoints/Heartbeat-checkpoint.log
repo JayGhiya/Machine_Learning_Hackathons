@@ -1,0 +1,22 @@
+<2018-10-27 08:41:17,910> DEBUG    - Logging Logging has been initialized!
+<2018-10-27 08:41:17,910> INFO     - Validated Environment with key: 'p8Z-9VmATBVOpSZS7_2Em2-jou21FWBJcb89heDi-Nc='
+<2018-10-27 08:41:17,912> DEBUG    - Starting preparation_workflow...
+<2018-10-27 08:41:17,912> INFO     - 
+<2018-10-27 08:41:17,912> INFO     - Initialized new Experiment with ID: 2fb155ce-a3d1-45b4-a191-6c6242188f86
+<2018-10-27 08:41:17,912> INFO     - Skipped creating backup of file: '/opt/conda/lib/python3.6/site-packages/hyperparameter_hunter/optimization_core.py'
+<2018-10-27 08:41:17,912> DEBUG    - Experiment parameters have been validated
+<2018-10-27 08:41:17,917> INFO     - Generated hyperparameter key: lIRa42piXxWZtvavdaa_nvpuotid-uneHdeQ56xDz0M=
+<2018-10-27 08:41:17,917> DEBUG    - Completed preparation_workflow
+<2018-10-27 08:41:17,918> DEBUG    - BaseExperiment._random_seed_initializer() done
+<2018-10-27 08:41:17,918> DEBUG    - Initialized random seeds for experiment
+<2018-10-27 08:41:17,928> INFO     - Initial preprocessing stage complete
+<2018-10-27 08:41:17,929> INFO     - 
+
+<2018-10-27 08:41:17,929> DEBUG    - BaseCallback.on_experiment_start()
+<2018-10-27 08:41:17,951> INFO     - Starting Repetition 0
+<2018-10-27 08:41:17,951> INFO     - 
+<2018-10-27 08:41:17,951> DEBUG    - BaseCallback.on_repetition_start()
+<2018-10-27 08:41:17,951> INFO     - 
+<2018-10-27 08:41:17,951> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:41:17,965> INFO     - F0/R0  |  Seed: 10967   Time: 08:41:17
+<2018-10-27 08:41:17,965> DEBUG    - BaseCallback.on_run_start()

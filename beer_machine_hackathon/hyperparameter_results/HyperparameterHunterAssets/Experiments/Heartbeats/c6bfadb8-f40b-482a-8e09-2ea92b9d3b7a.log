@@ -1,0 +1,113 @@
+<2018-10-27 08:47:20,067> DEBUG    - Logging Logging has been initialized!
+<2018-10-27 08:47:20,067> INFO     - Validated Environment with key: 'p8Z-9VmATBVOpSZS7_2Em2-jou21FWBJcb89heDi-Nc='
+<2018-10-27 08:47:20,069> DEBUG    - Starting preparation_workflow...
+<2018-10-27 08:47:20,069> INFO     - 
+<2018-10-27 08:47:20,069> INFO     - Initialized new Experiment with ID: c6bfadb8-f40b-482a-8e09-2ea92b9d3b7a
+<2018-10-27 08:47:20,069> INFO     - Skipped creating backup of file: '/opt/conda/lib/python3.6/site-packages/hyperparameter_hunter/optimization_core.py'
+<2018-10-27 08:47:20,069> DEBUG    - Experiment parameters have been validated
+<2018-10-27 08:47:20,073> INFO     - Generated hyperparameter key: lIRa42piXxWZtvavdaa_nvpuotid-uneHdeQ56xDz0M=
+<2018-10-27 08:47:20,074> DEBUG    - Completed preparation_workflow
+<2018-10-27 08:47:20,074> DEBUG    - BaseExperiment._random_seed_initializer() done
+<2018-10-27 08:47:20,074> DEBUG    - Initialized random seeds for experiment
+<2018-10-27 08:47:20,083> INFO     - Initial preprocessing stage complete
+<2018-10-27 08:47:20,085> INFO     - 
+
+<2018-10-27 08:47:20,085> DEBUG    - BaseCallback.on_experiment_start()
+<2018-10-27 08:47:20,106> INFO     - Starting Repetition 0
+<2018-10-27 08:47:20,106> INFO     - 
+<2018-10-27 08:47:20,106> DEBUG    - BaseCallback.on_repetition_start()
+<2018-10-27 08:47:20,106> INFO     - 
+<2018-10-27 08:47:20,106> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:47:20,121> INFO     - F0/R0  |  Seed: 10967   Time: 08:47:20
+<2018-10-27 08:47:20,121> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:48:13,743> INFO     - F0/R0  |  OOF(mean_squared_error=0.12695)  |  Time Elapsed: 53.62248 s
+<2018-10-27 08:48:13,743> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:48:13,747> INFO     - F0.0 AVG:   OOF(mean_squared_error=0.12695)  |  Time Elapsed: 53.64033 s
+<2018-10-27 08:48:13,747> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:48:13,747> INFO     - 
+<2018-10-27 08:48:13,747> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:48:13,759> INFO     - F1/R0  |  Seed: 75062   Time: 08:48:13
+<2018-10-27 08:48:13,759> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:49:06,487> INFO     - F1/R0  |  OOF(mean_squared_error=0.11704)  |  Time Elapsed: 52.72803 s
+<2018-10-27 08:49:06,487> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:49:06,489> INFO     - F0.1 AVG:   OOF(mean_squared_error=0.11704)  |  Time Elapsed: 52.7427 s
+<2018-10-27 08:49:06,490> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:49:06,490> INFO     - 
+<2018-10-27 08:49:06,490> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:49:06,500> INFO     - F2/R0  |  Seed: 60284   Time: 08:49:06
+<2018-10-27 08:49:06,500> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:49:58,239> INFO     - F2/R0  |  OOF(mean_squared_error=0.12187)  |  Time Elapsed: 51.73839 s
+<2018-10-27 08:49:58,239> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:49:58,242> INFO     - F0.2 AVG:   OOF(mean_squared_error=0.12187)  |  Time Elapsed: 51.75215 s
+<2018-10-27 08:49:58,242> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:49:58,242> INFO     - 
+<2018-10-27 08:49:58,242> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:49:58,254> INFO     - F3/R0  |  Seed: 20414   Time: 08:49:58
+<2018-10-27 08:49:58,254> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:50:53,164> INFO     - F3/R0  |  OOF(mean_squared_error=0.11956)  |  Time Elapsed: 54.9099 s
+<2018-10-27 08:50:53,164> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:50:53,167> INFO     - F0.3 AVG:   OOF(mean_squared_error=0.11956)  |  Time Elapsed: 54.9249 s
+<2018-10-27 08:50:53,167> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:50:53,167> INFO     - 
+<2018-10-27 08:50:53,167> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:50:53,177> INFO     - F4/R0  |  Seed: 24828   Time: 08:50:53
+<2018-10-27 08:50:53,177> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:51:47,465> INFO     - F4/R0  |  OOF(mean_squared_error=0.12407)  |  Time Elapsed: 54.28855 s
+<2018-10-27 08:51:47,466> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:51:47,469> INFO     - F0.4 AVG:   OOF(mean_squared_error=0.12407)  |  Time Elapsed: 54.30138 s
+<2018-10-27 08:51:47,469> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:51:47,469> INFO     - 
+<2018-10-27 08:51:47,469> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:51:47,478> INFO     - F5/R0  |  Seed: 85063   Time: 08:51:47
+<2018-10-27 08:51:47,478> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:52:41,068> INFO     - F5/R0  |  OOF(mean_squared_error=0.11778)  |  Time Elapsed: 53.58992 s
+<2018-10-27 08:52:41,068> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:52:41,071> INFO     - F0.5 AVG:   OOF(mean_squared_error=0.11778)  |  Time Elapsed: 53.6027 s
+<2018-10-27 08:52:41,072> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:52:41,072> INFO     - 
+<2018-10-27 08:52:41,072> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:52:41,082> INFO     - F6/R0  |  Seed: 53758   Time: 08:52:41
+<2018-10-27 08:52:41,082> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:53:33,223> INFO     - F6/R0  |  OOF(mean_squared_error=0.12791)  |  Time Elapsed: 52.14133 s
+<2018-10-27 08:53:33,223> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:53:33,226> INFO     - F0.6 AVG:   OOF(mean_squared_error=0.12791)  |  Time Elapsed: 52.15457 s
+<2018-10-27 08:53:33,226> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:53:33,226> INFO     - 
+<2018-10-27 08:53:33,226> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:53:33,237> INFO     - F7/R0  |  Seed: 52995   Time: 08:53:33
+<2018-10-27 08:53:33,238> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:54:25,304> INFO     - F7/R0  |  OOF(mean_squared_error=0.11927)  |  Time Elapsed: 52.06707 s
+<2018-10-27 08:54:25,305> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:54:25,308> INFO     - F0.7 AVG:   OOF(mean_squared_error=0.11927)  |  Time Elapsed: 52.08124 s
+<2018-10-27 08:54:25,308> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:54:25,308> INFO     - 
+<2018-10-27 08:54:25,308> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:54:25,319> INFO     - F8/R0  |  Seed: 91370   Time: 08:54:25
+<2018-10-27 08:54:25,319> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:55:17,970> INFO     - F8/R0  |  OOF(mean_squared_error=0.11920)  |  Time Elapsed: 52.65109 s
+<2018-10-27 08:55:17,970> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:55:17,973> INFO     - F0.8 AVG:   OOF(mean_squared_error=0.11920)  |  Time Elapsed: 52.66516 s
+<2018-10-27 08:55:17,973> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:55:17,973> INFO     - 
+<2018-10-27 08:55:17,973> DEBUG    - BaseCallback.on_fold_start()
+<2018-10-27 08:55:17,984> INFO     - F9/R0  |  Seed: 40969   Time: 08:55:17
+<2018-10-27 08:55:17,984> DEBUG    - BaseCallback.on_run_start()
+<2018-10-27 08:56:13,021> INFO     - F9/R0  |  OOF(mean_squared_error=0.11922)  |  Time Elapsed: 55.03655 s
+<2018-10-27 08:56:13,021> DEBUG    - BaseCallback.on_run_end()
+<2018-10-27 08:56:13,024> INFO     - F0.9 AVG:   OOF(mean_squared_error=0.11922)  |  Time Elapsed: 55.05055 s
+<2018-10-27 08:56:13,024> DEBUG    - BaseCallback.on_fold_end()
+<2018-10-27 08:56:13,027> INFO     - 
+<2018-10-27 08:56:13,027> INFO     - Repetition 0 AVG:   OOF(mean_squared_error=0.12129)  |  Time Elapsed: 8.0 m, 52.92064 s
+<2018-10-27 08:56:13,027> DEBUG    - BaseCallback.on_repetition_end()
+<2018-10-27 08:56:13,029> INFO     - 
+<2018-10-27 08:56:13,029> INFO     - FINAL:    OOF(mean_squared_error=0.12129)  |  Time Elapsed: 8.0 m, 52.94347 s
+<2018-10-27 08:56:13,029> DEBUG    - BaseCallback.on_experiment_end()
+<2018-10-27 08:56:13,029> INFO     - 
+<2018-10-27 08:56:13,108> INFO     - Saving results for Experiment: "c6bfadb8-f40b-482a-8e09-2ea92b9d3b7a"
+<2018-10-27 08:56:13,108> INFO     - Saving result file for "TestedKeyRecorder"
+<2018-10-27 08:56:13,108> INFO     - Saved cross_experiment_key: "p8Z-9VmATBVOpSZS7_2Em2-jou21FWBJcb89heDi-Nc="
+<2018-10-27 08:56:13,109> INFO     - Saved hyperparameter_key: "lIRa42piXxWZtvavdaa_nvpuotid-uneHdeQ56xDz0M="
+<2018-10-27 08:56:13,109> INFO     - Saving result file for "LeaderboardEntryRecorder"
+<2018-10-27 08:56:13,112> INFO     - Saving result file for "DescriptionRecorder"
+<2018-10-27 08:56:13,113> INFO     - Saving result file for "PredictionsOOFRecorder"
+<2018-10-27 08:56:13,720> INFO     - Saving result file for "HeartbeatRecorder"

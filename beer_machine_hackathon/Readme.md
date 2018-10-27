@@ -12,5 +12,5 @@
 3) For observing detailed hyperparameters for particular experiment remember the id from step 2 and search for the same id in below directory: https://github.com/JayGhiya/Machine_Learning_Hackathons/tree/master/beer_machine_hackathon/hyperparameter_results/HyperparameterHunterAssets/Experiments/Descriptions. Open the json file for the same.
  
 ## Todo tasks:
-1) Change from target encoding and one-hot to binary encoding due to this survey and see the results.
+1) Change from target encoding and one-hot to binary encoding due to this survey and see the results. refer : https://www.kdnuggets.com/2015/12/beyond-one-hot-exploration-categorical-variables.html 
 2) Re-run hyperparameter hunter.
